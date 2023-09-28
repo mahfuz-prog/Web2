@@ -1,7 +1,7 @@
 # Referral System - Flask
 
-### signup route default = Company
-### create a default user with Username = Company
+*signup route default = Company
+create a default user with Username = Company*
 
 ```
 from flask_referral import app, db, bcrypt
