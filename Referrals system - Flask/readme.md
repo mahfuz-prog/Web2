@@ -1,6 +1,7 @@
 # Referral System - Flask
 
 *signup route default = Company*
+
 *create a default user with Username = Company*
 
 ```
