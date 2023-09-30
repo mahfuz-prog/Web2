@@ -2,6 +2,7 @@
 #### In this system, username is used for the referral code. If any new user doesn't have any referral code then by default Company will get the referral.
 
 *signup route default = Company*
+
 *create a default user with Username = Company*
 
 ```
